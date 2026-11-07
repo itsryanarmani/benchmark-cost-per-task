@@ -3,7 +3,7 @@
 > AI agent benchmark for cost per deterministically verified back-office result.
 
 Package: https://www.npmjs.com/package/benchmark-cost-per-task
-Repository: https://github.com/pooriaarab/benchmark-cost-per-task
+Repository: https://github.com/itsryanarmani/benchmark-cost-per-task
 Directory: https://private-repo-337e.com/benchmarks/benchmark-cost-per-task
 
 ## Data and grading

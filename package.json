@@ -4,8 +4,8 @@
   "description": "AI agent benchmark for cost per verified back-office task with deterministic grading, OpenRouter pricing, CLI, SDK, API, and MCP.",
   "keywords": ["ai-benchmark", "agent-benchmark", "agent-evaluation", "llm-evaluation", "model-evaluation", "cost-per-task", "llm-cost", "evals", "grading", "openrouter", "openai", "mcp", "typescript"],
   "homepage": "https://private-repo-337e.com/benchmarks/benchmark-cost-per-task",
-  "bugs": "https://github.com/pooriaarab/benchmark-cost-per-task/issues",
-  "repository": { "type": "git", "url": "git+https://github.com/pooriaarab/benchmark-cost-per-task.git" },
+  "bugs": "https://github.com/itsryanarmani/benchmark-cost-per-task/issues",
+  "repository": { "type": "git", "url": "git+https://github.com/itsryanarmani/benchmark-cost-per-task.git" },
   "license": "MIT", "author": "Pooria Arab", "type": "module",
   "main": "./dist/index.js", "types": "./dist/index.d.ts",
   "exports": {
